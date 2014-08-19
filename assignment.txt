@@ -1,0 +1,26 @@
+Design and develop a sudoku solver.
+
+Requirements
+
++ It must be done in Java.
++ It must be properly documented using Javadocs.
++ Appropriate object orientation must be used.
++ It must be proven to work on a number of sudoku examples. I will use separate test data to validate it.
++ Excellent coding style must be used.
++ It must be able to read and write sudoku files using the csv standard where blank spaces are stored as 0. See example below.
+
+Limitations
+
++ You must not use brute force solving techniques.
+
+Example
+
+5,3,0,0,7,0,0,0,0
+6,0,0,1,9,5,0,0,0
+0,9,8,0,0,0,0,6,0
+8,0,0,0,6,0,0,0,3
+4,0,0,8,0,3,0,0,1
+7,0,0,0,2,0,0,0,6
+0,6,0,0,0,0,2,8,0
+0,0,0,4,1,9,0,0,5
+0,0,0,0,8,0,0,7,9
